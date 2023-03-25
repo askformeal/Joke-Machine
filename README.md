@@ -9,7 +9,7 @@
 
 图形版为防止卡顿（无响应）暂不支持批量获取
 
-图像版按Enter收集新笑话，Escape退出
+图形版按Enter收集新笑话，Escape退出
 
 ![a](https://user-images.githubusercontent.com/109349321/227704431-12ad670e-6e71-4785-91f6-5d6443e18a43.JPG)
 
